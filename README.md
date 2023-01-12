@@ -1,5 +1,5 @@
 - Hi, I’m @andrei399
 - I’m interested in coding and gaming
 - I'm currently studying Computer Science.
-- I'm working as a Data Scientist
+- I'm working as a Software Engineer
 - I'm really passionate about A.I.
