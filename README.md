@@ -1,5 +1,6 @@
 - Hi, I’m @andrei399
-- I’m interested in coding and gaming
-- I'm currently studying Computer Science.
+- VI CULT
+- I’m interested in algorithm design and engineering solutions for large scale aplications
 - I'm working as a Software Engineer
-- I'm really passionate about A.I.
+- I graduated with a CS bachelor's in 2023
+- Planning on going to Software Engineering masters in 2024
