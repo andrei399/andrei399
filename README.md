@@ -1,6 +1,4 @@
 - Hi, I’m @andrei399
 - VI CULT
-- I’m interested in algorithm design and engineering solutions for large scale aplications
 - I'm working as a Software Engineer
 - I graduated with a CS bachelor's in 2023
-- Planning on going to Software Engineering masters in 2024
